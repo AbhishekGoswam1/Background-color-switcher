@@ -1,1 +1,1 @@
-# Backgraound-color-switcher
+# Background-color-switcher
